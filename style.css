@@ -3,13 +3,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f8f4ff;
-    color: #4b0082;
+    color: #69065c;
 }
 
 header {
     text-align: center;
     padding: 20px;
-    background-color: #4b0082;
+    background-color: #69065c;
     color: white;
 }
 
@@ -25,7 +25,7 @@ header {
 }
 
 nav {
-    background-color: #6a0dad;
+    background-color: #69065c;
     padding: 10px;
     text-align: center;
 }
